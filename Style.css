@@ -1,0 +1,7 @@
+body {
+  background:black;
+}
+
+canvas {
+  border: white 5px dashed;
+}
